@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:struct",
+      "color": {
+        "a": 1,
+        "rgb": 14742901
+      }
+    },
+    {
+      "query": "tag:class",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file: \"\"",
+      "color": {
+        "a": 1,
+        "rgb": 13566187
+      }
+    },
+    {
+      "query": "path:docs/SDK/Source",
+      "color": {
+        "a": 1,
+        "rgb": 5190844
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 1.16082474226804,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.216897551546392,
+  "repelStrength": 17.6288659793814,
+  "linkStrength": 0.860824742268041,
+  "linkDistance": 241,
+  "scale": 0.6316046762907496,
+  "close": false
+}
